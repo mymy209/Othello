@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/Q1DoyU6.png">
-<img src="https://i.imgur.com/Fasn9RJ.png">
+<img src="https://i.imgur.com/8iHKRqR.png">
+<img src="https://i.imgur.com/gzVUFhb.png">
 # Othello
 
 ##Game Description
