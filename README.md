@@ -12,10 +12,7 @@ Othello is a strategic 2-player board game where each player places chosen color
 
 Outsmart your opponent and dominate the board with your color!
 
-### Technologies Used:
+### Technologies Used
 - HTML
 - CSS
 - JavaScript
-
-
-
