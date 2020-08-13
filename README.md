@@ -1,1 +1,2 @@
 # Othello
+my childhood game
